@@ -1,6 +1,6 @@
 (kicad_sch (version 20211123) (generator eeschema)
 
-  (uuid 395c80dc-3302-4bdc-9a2b-20564cd30c51)
+  (uuid f32a8613-6659-4f2c-a574-495c818a8483)
 
   (paper "A4")
 
@@ -348,7 +348,7 @@
     (uuid 1b474c2d-f3a3-4c4e-b6d1-bfe3a7b5e1c0)
     (property "Reference" "J3" (id 0) (at 107.315 53.34 0))
     (property "Value" "Conn_01x04_Male" (id 1) (at 107.315 55.88 0))
-    (property "Footprint" "" (id 2) (at 106.68 60.96 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (id 2) (at 106.68 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 106.68 60.96 0)
@@ -366,7 +366,7 @@
     (uuid b69ff71f-eb9b-48d1-8af0-8ffeb6c2f0fe)
     (property "Reference" "J2" (id 0) (at 75.565 76.2 0))
     (property "Value" "Conn_01x09_Male" (id 1) (at 75.565 78.74 0))
-    (property "Footprint" "" (id 2) (at 74.93 91.44 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (id 2) (at 74.93 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 74.93 91.44 0)
@@ -389,7 +389,7 @@
     (uuid dc9212e4-118c-43ba-b758-d9fbef701142)
     (property "Reference" "J1" (id 0) (at 74.295 57.15 0))
     (property "Value" "Conn_01x04_Male" (id 1) (at 74.295 59.69 0))
-    (property "Footprint" "" (id 2) (at 73.66 64.77 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (id 2) (at 73.66 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 73.66 64.77 0)
@@ -407,7 +407,7 @@
     (uuid e13499bd-24f7-4ea8-b5bd-790fe3e885eb)
     (property "Reference" "J4" (id 0) (at 110.49 80.01 0))
     (property "Value" "Conn_02x03_Odd_Even" (id 1) (at 110.49 82.55 0))
-    (property "Footprint" "" (id 2) (at 109.22 88.9 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical" (id 2) (at 109.22 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 109.22 88.9 0)
